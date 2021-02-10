@@ -1,0 +1,7 @@
+Instruction to run docker-compose.yml
+1. docker-compose build
+2. docker-compose up
+
+and see output on
+http://localhost:8080/
+http://localhost:5000/
